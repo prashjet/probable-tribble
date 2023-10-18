@@ -5,4 +5,4 @@ Code for evaluating probability of tribbles
 
 An example!
 
-Not very good.
+Not very good. Good! It's OK!
