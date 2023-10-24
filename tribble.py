@@ -3,3 +3,4 @@ def make_tribble(n):
 
 def print_hi():
     print('HI')
+    print('HI AGAIN!')
