@@ -1,2 +1,2 @@
 def new_function(a):
-    print(a)
+    print(a + 1)
