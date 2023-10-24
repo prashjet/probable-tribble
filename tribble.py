@@ -1,4 +1,4 @@
-THING = 10
+THING = 101
 
 def make_tribble(n):
     print('TRIBBLE!', n)
